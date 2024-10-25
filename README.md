@@ -8,6 +8,10 @@
 
 ### 안녕하세요, BackEnd Programmer로 성장해나가고 있는 박수빈입니다!
 
+### 📫 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
+
 <!-- Body -->
 
 ### Skills
@@ -34,6 +38,15 @@
 ### 🚌 Top Langs & Algorithm
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subin4420&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subin4420&show_icons=true&theme=radical)
+### 📊 GitHub Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subin4420&theme=radical)
+### 🌱 Currently Learning
+- Advanced Java & Spring Boot
+- Cloud Architecture with AWS
+- Machine Learning with Python (Scikit-learn, TensorFlow)
+
+### 🔗 Projects
+- [프로젝트명](https://github.com/your_project_link) - 프로젝트 간단 설명
 
 
 <!-- Footer -->
