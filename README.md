@@ -16,7 +16,7 @@
 - Machine Learning with Python (Scikit-learn, TensorFlow)
 
 ### 🔗 Projects
-- [Finterest](https://github.com/finterest) - Z세대를 위한 금융교육 플랫폼 (Vue.js + Spring + MySQL)
+- [Finterest](https://github.com/subin4420/finterest) - Z세대를 위한 금융교육 플랫폼 (Vue.js + Spring + MySQL)
 
 ### 🛠️ Skills
 **Lang and Frameworks**  
