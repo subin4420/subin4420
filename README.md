@@ -2,7 +2,7 @@
 "Every Line of Code, a Step Forward in Growth!"
 
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Every%20Line%20of%20Code,%20a%20Step%20Forward%20in%20Growth!!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Every%20Line%20of%20Code,%20a%20Step%20Forward%20in%20Growth!&fontAlign=40&fontAlignY=40&color=gradient&fontSize=30)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
