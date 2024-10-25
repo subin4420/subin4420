@@ -16,11 +16,10 @@
 - Machine Learning with Python (Scikit-learn, TensorFlow)
 
 ### 🔗 Projects
-- [Finterest](https://github.com/finterest) - Z세대를 위한 금융교육플랫폼 (Vue.js + Spring + MySQL)
+- [Finterest](https://github.com/finterest) - Z세대를 위한 금융교육 플랫폼 (Vue.js + Spring + MySQL)
 
-### 💻 Skills
-**Languages and Frameworks**
-<!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
+### 🛠️ Skills
+**Lang and Frameworks**  
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,7 +27,7 @@
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
-**Infrastructure and Tools**
+**Infra and Tools**  
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -38,11 +37,11 @@
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
-### 📊 Top Langs & Algorithm
+### 🚌 Top Langs & Algorithm
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subin4420&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subin4420&show_icons=true&theme=radical)
 
-### 🔥 GitHub Contributions
+### 📊 GitHub Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subin4420&theme=radical)
 
 <!-- Footer -->
