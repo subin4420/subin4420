@@ -30,7 +30,7 @@
 
 ### 🚌 Top Langs & Algorithm
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subin4420&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subin4420&layout=compact&theme=radical)
 
 
 
