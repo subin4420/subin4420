@@ -8,7 +8,6 @@
 
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
 
 ### 🌱 Currently Learning
 - Advanced Java & Spring Boot
