@@ -3,7 +3,7 @@
 
 <!-- 방문자 수 카운터 -->
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=subin4420)
 
 ### 👋 안녕하세요, BackEnd Programmer로 성장해나가고 있는 박수빈입니다!
 
