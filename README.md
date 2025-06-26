@@ -7,7 +7,7 @@
 ### 👋 안녕하세요, BackEnd Programmer로 성장해나가고 있는 박수빈입니다!
 
 ### 📫 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:subin4420@gmail.com)
 
 ### 🌱 Currently Learning
 - Advanced Java & Spring Boot
