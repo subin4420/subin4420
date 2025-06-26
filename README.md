@@ -42,8 +42,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subin4420&show_icons=true&theme=radical)
 
 ### 📊 GitHub Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subin4420&theme=radical)
-](https://streak-stats.demolab.com/?user=subin4420&theme=radical
-)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subin4420&theme=radical)
+
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient)
