@@ -37,11 +37,10 @@
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
-### 🚌 Top Langs & Algorithm
+### 🚌 Top Langs 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subin4420&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subin4420&show_icons=true&theme=radical)
 
-### 📊 GitHub Contributions
+### 📊 GitHub stats
 ![subin4420's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin4420&show_icons=true&theme=radical)
 
 <!-- Footer -->
